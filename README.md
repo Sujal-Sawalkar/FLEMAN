@@ -5,7 +5,12 @@ Project Type: Full Stack Web Application
 Status: Active Development ✅
 
 👨‍💼 Project Author
-DetailInformationNameSujal SawalkarRoll Number75BatchA4BranchComputer TechnologyRegistration Number23070627
+Detail Information
+Name-Sujal Sawalkar,
+Roll Number-75,
+Batch-A4 ,
+Branch-Computer Technology,
+Registration Number-23070627
 
 📋 Project Overview
 FLEMAN is a comprehensive web-based Fleet Management System designed to digitize and optimize vehicle rental and fleet operations. It provides a centralized platform for managing vehicle inventory, streamlining booking operations, automating billing processes, and delivering an exceptional user experience for both customers and administrators.
